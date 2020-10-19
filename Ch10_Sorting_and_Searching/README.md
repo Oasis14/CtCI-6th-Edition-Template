@@ -1,1 +1,12 @@
 # Chapter 10 Sorting and Searching
+* [10.1 - Sorted Merge](Ch10_Sorting_and_Searching/10.1_Sorted_Merge/README.md)
+* [10.2 - Group Anagrams](Ch10_Sorting_and_Searching/10.2_Group_Anagrams/README.md)
+* [10.3 - Search in Rotated Array](Ch10_Sorting_and_Searching/10.3_Search_in_Rotated_Array/README.md)
+* [10.4 - Sorted Search, No Size](Ch10_Sorting_and_Searching/10.4_Sorted_Search,_No_Size/README.md)
+* [10.5 - Sparse Search](Ch10_Sorting_and_Searching/10.5_Sparse_Search/README.md)
+* [10.6 - Sort Big File](Ch10_Sorting_and_Searching/10.6_Sort_Big_File/README.md)
+* [10.7 - Missing Int](Ch10_Sorting_and_Searching/10.7_Missing_Int/README.md)
+* [10.8 - Find Duplicates](Ch10_Sorting_and_Searching/10.8_Find_Duplicates/README.md)
+* [10.9 - Sorted Matrix Search](Ch10_Sorting_and_Searching/10.9_Sorted_Matrix_Search/README.md)
+* [10.10 - Rank from Stream](Ch10_Sorting_and_Searching/10.10_Rank_from_Stream/README.md)
+* [10.11 - Peaks and Valleys](Ch10_Sorting_and_Searching/10.11_Peaks_and_Valleys/README.md)

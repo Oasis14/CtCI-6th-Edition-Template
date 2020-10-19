@@ -1,1 +1,11 @@
 # Chapter 6 Math and Logic Puzzels
+* [6.1 - The Heavy Pill](Ch06_Math_and_Logic_Puzzels/6.1_The_Heavy_Pill/README.md)
+* [6.2 - Basketball](Ch06_Math_and_Logic_Puzzels/6.2_Basketball/README.md)
+* [6.3 - Dominos](Ch06_Math_and_Logic_Puzzels/6.3_Dominos/README.md)
+* [6.4 - Ants on a Triangle](Ch06_Math_and_Logic_Puzzels/6.4_Ants_on_a_Triangle/README.md)
+* [6.5 - Jugs of Water](Ch06_Math_and_Logic_Puzzels/6.5_Jugs_of_Water/README.md)
+* [6.6 - Blue-Eyed Island](Ch06_Math_and_Logic_Puzzels/6.6_Blue-Eyed_Island/README.md)
+* [6.7 - The Appocalypse](Ch06_Math_and_Logic_Puzzels/6.7_The_Appocalypse/README.md)
+* [6.8 - The Egg Drop Problem](Ch06_Math_and_Logic_Puzzels/6.8_The_Egg_Drop_Problem/README.md)
+* [6.9 - 100 Lockers](Ch06_Math_and_Logic_Puzzels/6.9_100_Lockers/README.md)
+* [6.10 - Poison](Ch06_Math_and_Logic_Puzzels/6.10_Poison/README.md)
